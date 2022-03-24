@@ -8,7 +8,7 @@ First project created in the programming area, following Alura's first HTML and 
 
 ## Demo
 
-https://vercel.com/victorhubarb/barbershop
+https://barbershop-vert.vercel.app/
 
 ## Project Features
 
