@@ -8,7 +8,7 @@ First project created in the programming area, following Alura's first HTML and 
 
 ## Demo
 
-
+https://vercel.com/victorhubarb/barbershop
 
 ## Project Features
 
@@ -49,7 +49,7 @@ First project created in the programming area, following Alura's first HTML and 
 Clone the project
 
 ```bash
-  git clone 
+  git clone https://github.com/victorhubarb/Barbershop.git
 ```
 
 ## Future Implementations
